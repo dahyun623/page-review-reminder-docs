@@ -1,6 +1,6 @@
 # Page Review Reminder — Customer Data Processing Addendum
 
-Version: 13 October 2026. Published with provider approval.
+Version: 13 October 2026, revision 2. California customer provisions added with provider approval.
 
 Provider: dahyun kim, Republic of Korea. Contact: danielanderic@gmail.com.
 
@@ -35,5 +35,15 @@ The provider will reasonably assist the customer with verified individual rights
 The customer can request return or deletion of its app data through the contact above while the app remains accessible. The provider will verify authority and coordinate the request. Deletion removes records from the app's accessible primary storage; Atlassian's recovery and backup lifecycle may retain copies temporarily. Source pages and comments remain within the customer's Confluence controls. Any retention legally required must be limited to that purpose and protected.
 
 The provider will make relevant compliance information available and permit reasonable, confidential verification of its obligations. Verification must respect other customers' data and platform security; access to Atlassian infrastructure is governed by Atlassian's own assurance processes. The customer and provider will coordinate scope and timing without limiting mandatory regulator powers or legal rights.
+
+## California customer information
+
+Where CCPA applies to customer personal information, the provider acts as the customer's service provider or contractor. The specified purposes are storing review settings, checking page permissions, recording reviews, sending opted-in comments, and supporting those functions.
+
+The provider will not sell or share that information, use it for unrelated commercial purposes, or process it outside the customer relationship, except as CCPA permits. Combining it with other customers' information or independently collected information is prohibited except as permitted by CCPA.
+
+The provider will meet applicable CCPA requirements, maintain required privacy protections and reasonable security, assist with customer-directed consumer requests and applicable assessments, and notify the customer if it determines it cannot meet these obligations. The customer will supply necessary request information and instructions.
+
+The customer may take reasonable steps to verify compliance and, upon notice, stop and remedy unauthorized processing. Applicable verification and confidentiality provisions in this DPA do not limit mandatory rights. Any subcontracted processing must be governed by a contract meeting applicable CCPA requirements.
 
 This addendum prevails over inconsistent customer agreement terms concerning the processing it covers. It does not waive mandatory rights or establish compliance with every jurisdiction by itself.
